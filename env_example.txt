@@ -1,0 +1,21 @@
+# ─── AWS ───────────────────────────────────────────────
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+AWS_REGION=
+S3_BUCKET_NAME=
+
+# ─── AWS Cognito ───────────────────────────────────────
+COGNITO_USER_POOL_ID=
+COGNITO_APP_CLIENT_ID=
+COGNITO_REGION=
+
+# ─── Blockchain ────────────────────────────────────────
+GANACHE_RPC_URL=
+CONTRACT_ADDRESS='' #automatically filled after deploy contract
+DEPLOYER_PRIVATE_KEY=
+
+# ─── Flask ─────────────────────────────────────────────
+FLASK_SECRET_KEY=
+FLASK_ENV=development
+FLASK_PORT=5000
+
